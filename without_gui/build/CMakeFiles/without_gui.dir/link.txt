@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread  -rdynamic CMakeFiles/without_gui.dir/without_gui.cpp.o  -o without_gui  -lrt 

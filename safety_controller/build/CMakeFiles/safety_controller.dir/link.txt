@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -lrt  -rdynamic CMakeFiles/safety_controller.dir/safety_controller.cpp.o  -o safety_controller  -lrt 

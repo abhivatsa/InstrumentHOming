@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/ecat_master.dir/master.cpp.o  -o ecat_master  -Wl,-rpath,/usr/local/lib /usr/local/lib/libethercat.so -lrt 

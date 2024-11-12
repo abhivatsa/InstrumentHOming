@@ -1,0 +1,3 @@
+/home/abhishek/Desktop/instrument-devel-app-main/without_gui/build/CMakeFiles/edit_cache.dir
+/home/abhishek/Desktop/instrument-devel-app-main/without_gui/build/CMakeFiles/rebuild_cache.dir
+/home/abhishek/Desktop/instrument-devel-app-main/without_gui/build/CMakeFiles/without_gui.dir

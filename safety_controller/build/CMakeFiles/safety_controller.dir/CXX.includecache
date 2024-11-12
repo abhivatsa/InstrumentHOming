@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/SharedObject.h
+cstring
+-
+iostream
+-
+unistd.h
+-
+cmath
+-
+
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/cyclicTask.h
+safety_controller.h
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/safety_controller.h
+
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/safety_controller.cpp
+cyclicTask.h
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/cyclicTask.h
+
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/safety_controller.h
+stdlib.h
+-
+fcntl.h
+-
+sys/shm.h
+-
+sys/stat.h
+-
+sys/mman.h
+-
+unistd.h
+-
+bits/stdc++.h
+-
+sys/time.h
+-
+SharedObject.h
+/home/abhishek/Desktop/instrument-devel-app-main/safety_controller/SharedObject.h
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abhishek/Desktop/instrument-devel-app-main/without_gui/without_gui.cpp
+without_gui.h
+/home/abhishek/Desktop/instrument-devel-app-main/without_gui/without_gui.h
+stdlib.h
+-
+fcntl.h
+-
+sys/shm.h
+-
+sys/stat.h
+-
+sys/mman.h
+-
+unistd.h
+-
+bits/stdc++.h
+-
+sys/time.h
+-
+
+/home/abhishek/Desktop/instrument-devel-app-main/without_gui/without_gui.h
+cmath
+-
+unistd.h
+-
+iostream
+-
+
